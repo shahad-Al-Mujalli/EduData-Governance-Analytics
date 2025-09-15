@@ -68,7 +68,8 @@ This project demonstrates how combining **ETL pipelines, governance frameworks, 
 
 
 ### Data Quality Dashboard
-![thumbnail_IMG_2165](https://github.com/user-attachments/assets/b716c67b-0ed9-4529-9672-27c57cca3544)
+![thumbnail_IMG_2166](https://github.com/user-attachments/assets/8352c579-05ae-42c5-a3e9-e9bde04031a2)
+
 
 
 ---
